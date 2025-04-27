@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/ouy-o3o-g6-contributor.json)](https://github.com/antvis/g6)
 <!--
 **ouy-o3o/ouy-o3o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
